@@ -5,7 +5,7 @@ There was a test in your class and you passed it. Congratulations!
         You receive an array with your peers' test scores. Now calculate the average and compare your score!
 */
 
-public class HowGoodAreYouReally {
+public class   HowGoodAreYouReally {
     public static void main(String[] args) {
         int[] classPoints = new int[]{100, 40, 34, 57, 29, 72, 57, 88};
         int myScore = 100;
